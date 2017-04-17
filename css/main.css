@@ -1,38 +1,70 @@
-body{
-  font-family: "Arial";
+
+#caja1{
+  background-color: yellow;
+  width: 6%;
+  height: 70px;
+  display: block;
+  margin-bottom: 20px;
 }
 
-div{
+#caja2{
+  background-color: yellow;
+  width: 20%;
+  height: 70px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+#caja21{
+  background-color: black;
+  width: 32%;
+  height: 70px;
+  margin-bottom: 20px;
+  display: inline-block;
+
+}
+
+#caja22{
+  background-color: black;
+  width: 32%;
+  height: 70px;
+  margin-bottom: 20px;
   display: inline-block;
 }
 
-#texto1{
-  background-color: yellow;
-  padding-left: 3px;
-  padding-top: 5px;
-  padding-right: 100px;
-  padding-bottom: 30px;
-  width: 29.5%;
-  margin-top: 30px;
+#caja23{
+  background-color: black;
+  width: 32%;
+  height: 70px;
+  margin-bottom: 20px;
+  display: inline-block;
 }
 
-
-#texto2{
-  background-color: pink;
-  padding-left: 3px;
-  padding-top: 5px;
-  padding-right: 10px;
-  padding-bottom: 30px;
-  width: 29.5%;
-  margin-top: 30px;
+#caja6{
+  background-color: yellow;
+  width: 6%;
+  height: 70px;
+  display: inline-block;
+  margin-bottom: 20px;
 }
 
-#texto3{
+#caja7{
   background-color: yellow;
-  padding-left: 3px;
-  padding-top: 5px;
-  padding-right: 10px;
-  padding-bottom: 30px;
-  width: 29.5%;
-  margin-top: 30px;
+  width: 6%;
+  height: 70px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+#caja8{
+  background-color: yellow;
+  width: 6%;
+  height: 70px;
+  display: block;
+  margin-bottom: 20px;
 }
