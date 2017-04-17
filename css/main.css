@@ -11,6 +11,10 @@ div{
   padding-bottom: 25px;
   padding-left: 10px;
   padding-top: 5px;
+  width: 13%;
+  height: 15px;
+  margin-bottom: 10px;
+  margin-left: 500px;
 }
 
 
@@ -19,7 +23,10 @@ div{
   padding-bottom: 25px;
   padding-left: 10px;
   padding-top: 5px;
-
+  width: 13%;
+  height: 15px;
+  margin-bottom: 10px;
+  margin-left: 500px;
 }
 
 #texto3{
@@ -27,4 +34,8 @@ div{
   padding-bottom: 25px;
   padding-left: 10px;
   padding-top: 5px;
+  width: 13%;
+  height: 15px;
+  margin-bottom: 10px;
+  margin-left: 500px;
 }
